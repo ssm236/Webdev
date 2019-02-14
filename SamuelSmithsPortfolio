@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device.width, initial-scale=1.0">
+    <title>Samuel Smith's Portfolio</title>
+  </head>
+  <body>
+
+    <header>
+      <nav>
+        <ul>
+          <li>Home</li>
+          <li>About</li>
+          <li>Contact</li>
+        </ul>
+      </nav>
+
+    </header>
+
+    <section class="Home">
+      <h1>Home</h1>
+      <img src=".git/SSinitials.png" alt="Photo of initials SS">
+
+    </section>
+
+    <section class="About">
+      <h1>About</h1>
+      <p>I am a 22 year old student at the University of Kentucky.</p>
+    </section>
+
+    <section class="Contact">
+      <h1>Contact</h1>
+      <ul>
+        <li>ssm236@uky.edu</li>
+        <li>(630)-408-8759</li>
+      </ul>
+    </section>
+
+    <footer>
+      <p>Last modified: 2019-02-14</p>
+    </footer>
+
+  </body>
+</html>
